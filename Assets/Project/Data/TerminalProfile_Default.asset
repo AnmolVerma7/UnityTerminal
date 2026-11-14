@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4a91f2e8b3d4f6a9e1c0d7b5a382f61, type: 3}
+  m_Name: TerminalProfile_Default
+  m_EditorClassIdentifier: Assembly-CSharp::TerminalProfile
+  username: CARDINI
+  host: PC
+  path: ~
+  welcomeLines:
+  - "\u2588\u2588\u2588\u2588\u2588\u2588\u2588 \u2588\u2588   \u2588\u2588 \u2588\u2588\u2588\u2588\u2588\u2588\u2588 \u2588\u2588      \u2588\u2588          \u2588\u2588    \u2588\u2588  \u2588\u2588 \n\u2588\u2588      \u2588\u2588   \u2588\u2588 \u2588\u2588      \u2588\u2588      \u2588\u2588          \u2588\u2588    \u2588\u2588 \u2588\u2588\u2588 \n\u2588\u2588\u2588\u2588\u2588\u2588\u2588 \u2588\u2588\u2588\u2588\u2588\u2588\u2588 \u2588\u2588\u2588\u2588\u2588   \u2588\u2588      \u2588\u2588          \u2588\u2588    \u2588\u2588  \u2588\u2588 \n     \u2588\u2588 \u2588\u2588   \u2588\u2588 \u2588\u2588      \u2588\u2588      \u2588\u2588           \u2588\u2588  \u2588\u2588   \u2588\u2588 \n\u2588\u2588\u2588\u2588\u2588\u2588\u2588 \u2588\u2588   \u2588\u2588 \u2588\u2588\u2588\u2588\u2588\u2588\u2588 \u2588\u2588\u2588\u2588\u2588\u2588\u2588 \u2588\u2588\u2588\u2588\u2588\u2588\u2588       \u2588\u2588\u2588\u2588    \u2588\u2588                                               "
+  - Type 'help' for a list of commands.
