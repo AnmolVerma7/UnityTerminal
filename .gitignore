@@ -110,3 +110,8 @@ InitTestScene*.unity*
 
 # Local web shell reference (not part of this repo)
 /[Aa]ssets/Command Prompt Shell*
+
+# macOS / editor
+.DS_Store
+**/.DS_Store
+.vscode/
